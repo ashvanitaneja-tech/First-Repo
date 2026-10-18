@@ -1,0 +1,28 @@
+/* Styles the whole page background and text font */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Styles the main heading */
+h1 {
+    color: #2c3e50;
+    font-size: 32px;
+}
+
+/* Styles the paragraph text */
+p {
+    color: #555555;
+    line-height: 1.6;
+}
+
+/* Styles the button */
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
